@@ -1,2 +1,4 @@
 this was created to show something
 something means something like anything
+line 2 will added to see merge conflicts
+
